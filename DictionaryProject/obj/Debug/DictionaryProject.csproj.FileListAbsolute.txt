@@ -1,0 +1,40 @@
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.exe.config
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.exe
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.pdb
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\bin\Debug\CsvHelper.dll
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\bin\Debug\CsvHelper.xml
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.MainFrm.resources
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.WordAddFrm.resources
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.exe
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.pdb
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.Dictionary.resources
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.QuizFrm.resources
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.UC.QuizUc.resources
+C:\Users\Administrator\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.UI.QAfrm.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.exe.config
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.exe
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.pdb
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\bin\Debug\CsvHelper.dll
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\bin\Debug\System.ValueTuple.dll
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\bin\Debug\CsvHelper.xml
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\bin\Debug\System.ValueTuple.xml
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csprojAssemblyReference.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.UC.QuizUc.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.UI.QAfrm.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.QuizFrm.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.Dictionary.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.MainFrm.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.Properties.Resources.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.WordAddFrm.resources
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csproj.GenerateResource.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csproj.CoreCompileInputs.cache
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.csproj.CopyComplete
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.exe
+C:\Users\pazar\Desktop\Yazılım Dökümanları\DictionaryProject\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.pdb
